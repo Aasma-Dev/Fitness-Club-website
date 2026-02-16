@@ -26,7 +26,7 @@ h1,h2,h3{
   position: fixed;
   top:0;
   left:0;
-  width:100%;   /* IMPORTANT FIX */
+  width:100%;    
   display:flex;
   justify-content:space-between;
   padding:20px 40px;
@@ -299,3 +299,4 @@ margin-top: 15px;
   margin: 0 10px;
   text-decoration: none;
 }
+
